@@ -1,0 +1,42 @@
+{
+  "reservas": {
+    "reserva": [
+ {
+   "nombre": "Cristian Almeida Sintriani",
+   "telefono": "666-666-666",
+   "fecha_evento": "22/4/2024",
+   "tipo_evento": "Banquete",
+   "asistentes": "5",
+   "tipo_cocina": "bufe",
+   "tipo_mesa": "null",
+   "n_comensales": "5"
+ },
+ {
+   "nombre": "Cristian Almeida Sintriani",
+   "telefono": "666-666-666",
+   "fecha_evento": "20/3/2024",
+   "tipo_evento": "Jornada",
+   "asistentes": "2",
+   "tipo_cocina": "carta"
+ },
+ {
+   "nombre": "Cristian Almeida Sintriani",
+   "telefono": "666-666-666",
+   "fecha_evento": "23/3/2023",
+   "tipo_evento": "Jornada",
+   "asistentes": "3",
+   "tipo_cocina": "carta"
+ },
+ {
+   "nombre": "Cristian Almeida Sintriani",
+   "telefono": "666-666-666",
+   "fecha_evento": "22/4/2024",
+   "tipo_evento": "Banquete",
+   "asistentes": "5",
+   "tipo_cocina": "bufe",
+   "tipo_mesa": "redonda",
+   "n_comensales": "5"
+ }
+ ]
+  }
+}

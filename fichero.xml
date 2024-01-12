@@ -1,0 +1,38 @@
+<reservas>
+  <reserva>
+    <nombre>Cristian Almeida Sintriani</nombre>
+    <telefono>666-666-666</telefono>
+    <fecha_evento>22/4/2024</fecha_evento>
+    <tipo_evento>Banquete</tipo_evento>
+    <asistentes>5</asistentes>
+    <tipo_cocina>bufe</tipo_cocina>
+    <tipo_mesa>null</tipo_mesa>
+    <n_comensales>5</n_comensales>
+  </reserva>
+  <reserva>
+    <nombre>Cristian Almeida Sintriani</nombre>
+    <telefono>666-666-666</telefono>
+    <fecha_evento>20/3/2024</fecha_evento>
+    <tipo_evento>Jornada</tipo_evento>
+    <asistentes>2</asistentes>
+    <tipo_cocina>carta</tipo_cocina>
+  </reserva>
+  <reserva>
+    <nombre>Cristian Almeida Sintriani</nombre>
+    <telefono>666-666-666</telefono>
+    <fecha_evento>23/3/2023</fecha_evento>
+    <tipo_evento>Jornada</tipo_evento>
+    <asistentes>3</asistentes>
+    <tipo_cocina>carta</tipo_cocina>
+  </reserva>
+  <reserva>
+    <nombre>Cristian Almeida Sintriani</nombre>
+    <telefono>666-666-666</telefono>
+    <fecha_evento>22/4/2024</fecha_evento>
+    <tipo_evento>Banquete</tipo_evento>
+    <asistentes>5</asistentes>
+    <tipo_cocina>bufe</tipo_cocina>
+    <tipo_mesa>redonda</tipo_mesa>
+    <n_comensales>5</n_comensales>
+  </reserva>
+</reservas>
